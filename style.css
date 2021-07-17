@@ -106,8 +106,8 @@ p{
 
 
 @keyframes Abertura{
-	from{grid-template-columns: 89.9% 9.9%}
-	to{grid-template-columns: 90% 10%}
+	from{grid-template-columns: 99.9}
+	to{grid-template-columns: 100%}
 }
 
 #contentorGeral{
